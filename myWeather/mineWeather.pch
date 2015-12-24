@@ -1,0 +1,20 @@
+//
+//  mineWeather.pch
+//  myWeather
+//
+//  Created by peters on 15/12/23.
+//  Copyright © 2015年 peters. All rights reserved.
+//
+
+#ifndef mineWeather_pch
+#define mineWeather_pch
+
+#define WEATHERURL @"http://m.weather.com.cn/mweather/101210101.shtml"
+
+#define KscreenWight [UIScreen mainScreen].bounds.size.width
+#define KscreenHeight [UIScreen mainScreen].bounds.size.height
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* mineWeather_pch */
